@@ -1,13 +1,13 @@
-package com.codeclan.topmovieslist;
+package com.codeclan.watcheslist;
 
 
-public class Movie {
+public class Watch {
 
     private int ranking;
     private String title;
     private int year;
 
-    public Movie(Integer ranking, String title, Integer year) {
+    public Watch(Integer ranking, String title, Integer year) {
         this.ranking = ranking;
         this.title = title;
         this.year = year;

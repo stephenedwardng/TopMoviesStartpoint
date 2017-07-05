@@ -1,4 +1,4 @@
-package com.codeclan.topmovieslist;
+package com.codeclan.watcheslist;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
